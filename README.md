@@ -1,71 +1,162 @@
-<!-- Banner on top -->
-<img width="1696" height="624" alt="image_e792303e" src="https://github.com/user-attachments/assets/b797309c-b341-4110-9d07-3de49b3ef92b" />
+<!-- ========================================= -->
+<!--                 BANNER                     -->
+<!-- ========================================= -->
 
+<p align="center">
+  <img width="100%" src="https://github.com/user-attachments/assets/6d9aa2a8-1ad3-4f5e-9a16-7f62bd1231b5" alt="Mahdi Hasan Banner" />
+</p>
 
-<!-- Animation below banner -->
-![Animation](https://raw.githubusercontent.com/username/repo/main/animation.gif)
+<h1 align="center">Hi 👋, I'm Mahdi Hasan</h1>
 
-# 👋 Hi, I’m Mahdi Hasan
-<!-- Bio / Designation -->
-**Frontend Developer | Aspiring Full Stack Web Developer | Learning React & Next.js on Programming Hero **
+<h3 align="center">
+Building Modern Full Stack Web Applications
+</h3>
+
+<p align="center">
+Passionate about building modern, secure, scalable, and user-friendly web applications.
+</p>
+
+<p align="center">
+  <a href="mailto:mahdihasan.code@gmail.com">
+    <img src="https://img.shields.io/badge/Email-mahdihasan.code@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+
+  <a href="https://www.linkedin.com/in/mahdi-hasan-web">
+    <img src="https://img.shields.io/badge/LinkedIn-Mahdi%20Hasan-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+
+  <a href="https://github.com/mahdihasanprogrammer">
+    <img src="https://img.shields.io/badge/GitHub-mahdihasanprogrammer-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
 
 ---
 
-## About Me
-I am currently learning **React** and **Next.js** on **Programming Hero** with the goal of becoming a **Full Stack Web Developer**.  
-I enjoy building modern, clean UI and exploring new web technologies.
+# 🚀 About Me
+
+- 💻 Full Stack Web Developer passionate about building real-world web applications.
+- 🌱 Building projects with **Next.js, React, Express.js, MongoDB, and Tailwind CSS**.
+- 🔐 Built secure authentication using **Better Auth** and **JWT**.
+- 💳 Integrated **Stripe Payment Gateway** into full-stack applications.
+- 🎨 Love creating clean, responsive, and modern user interfaces.
+- 📚 Constantly improving my skills by building practical projects and exploring modern web technologies.
 
 ---
 
+# 💼 Current Focus
 
-## 💖 My Absolute Favorites
-💻 Exploring new technologies and building cool projects.  
-🍕 Attending meetups, tech events & connecting with developers.
-
-
----
-
-
-## 🔥 Current Work & Activities
-- Learning React & Next.js for web development  
-- Exploring modern JavaScript frameworks  
-- Working on personal projects  
+- 🚀 Building Full Stack Web Applications
+- 🔐 Authentication & Authorization
+- ⚡ REST API Development
+- 🍃 MongoDB Data Modeling
+- 🎨 Responsive UI & Better User Experience
 
 ---
 
-## 🛠️ Skills
+# ⚡ Tech Stack
 
-### 💻 Frontend
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![HeroUI](https://img.shields.io/badge/HeroUI-000000?style=for-the-badge&logo=react&logoColor=white)
+### 🎨 Frontend
+
+<p>
+<img src="https://skillicons.dev/icons?i=react,nextjs,js,html,css,tailwind" />
+</p>
 
 ### ⚙️ Backend
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![Better Auth](https://img.shields.io/badge/Better_Auth-7C3AED?style=for-the-badge&logo=shield&logoColor=white)
-![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
 
-### 🗄️ Database
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb" />
+</p>
 
-### 💳 Payment
-![Stripe](https://img.shields.io/badge/Stripe-635BFF?style=for-the-badge&logo=stripe&logoColor=white)
+### 🔐 Authentication & Payment
 
-### 🛠️ Tools
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+<p>
+
+<img src="https://img.shields.io/badge/Better%20Auth-7C3AED?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Stripe-635BFF?style=for-the-badge&logo=stripe&logoColor=white"/>
+
+</p>
+
+### 🛠 Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vercel,vscode" />
+</p>
 
 ---
 
-## 📫 Connect with me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mahdi-hasan-web)
+# 🚀 Featured Project
 
+## 🌟 WisdomVault
 
+A modern **Full Stack Digital Life Lessons Platform** where users can create, organize, and share meaningful life lessons with the community.
 
+### ✨ Highlights
 
+- 🔐 Better Auth Authentication
+- 🌐 Google Sign In
+- 👤 Role-based Dashboard
+- 💳 Stripe Premium Membership
+- 📝 CRUD Operations
+- ❤️ Favorites, Likes & Comments
+- 🚩 Lesson Report System
+- 🔍 Search, Filter & Pagination
+- 📊 Admin Dashboard
+- 📱 Fully Responsive Design
+
+### 🌍 Live Demo
+
+https://assignment-10-wisdom-vault-client.vercel.app
+
+### 💻 GitHub Repositories
+
+**Client**  
+https://github.com/mahdihasanprogrammer/Assignment-10-WisdomVault-Client
+
+**Server**  
+https://github.com/mahdihasanprogrammer/Assignment-10-WisdomVault-Server
+
+---
+
+# 🎯 2026 Goals
+
+- 🚀 Build More Production-Ready Projects
+- 🌍 Contribute to Open Source
+- 🐳 Learn Docker
+- ☁️ Explore Cloud Deployment
+- 💼 Become a Professional Software Engineer
+
+---
+
+# 📫 Let's Connect
+
+<p align="center">
+
+<a href="mailto:mahdihasan.code@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-mahdihasan.code@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/mahdi-hasan-web">
+<img src="https://img.shields.io/badge/LinkedIn-Mahdi%20Hasan-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://github.com/mahdihasanprogrammer">
+<img src="https://img.shields.io/badge/GitHub-mahdihasanprogrammer-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</p>
+
+---
+
+<h3 align="center">
+💡 "First, solve the problem. Then, write the code."
+</h3>
+
+---
+
+<p align="center">
+⭐ Thanks for visiting my profile! <br><br>
+If you like my work, consider following me and starring my repositories.
+</p>
