@@ -3,13 +3,13 @@
 </p>
 
 <!-- ========================================= -->
-<!--            INTRO & TYPING                 -->
+<!--             INTRO & TYPING                -->
 <!-- ========================================= -->
 
 <h1 align="center">Hi, I am Mahdi Hasan 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=Building+secure%2C+scalable+full+stack+apps;Authentication+%7C+Payments+%7C+Clean+UI;Currently+leveling+up+with+TypeScript" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=Full+Stack+Web+Developer;Building+secure%2C+scalable+apps;Currently+leveling+up+with+TypeScript" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -24,6 +24,9 @@
   <a href="mailto:mahdihasan.code@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
+  <a href="tel:+8801400596304">
+    <img src="https://img.shields.io/badge/Call%20Me-008000?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Phone" />
+  </a>
   <a href="https://www.linkedin.com/in/mahdi-hasan-web">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
@@ -36,14 +39,13 @@
 
 # 🚀 About Me
 
-I'm a full stack web developer who builds **production-style applications end to end** — from database schema to deployed UI. I focus on getting the fundamentals right: secure auth, clean APIs, and interfaces people actually enjoy using.
+I am a full-stack web developer who loves building real-world applications from scratch. I spend most of my time working on complete end-to-end setups—from designing database models to launching smooth user interfaces. My primary goal is always to write clean APIs, implement solid user security, and make sure everything runs fast.
 
-- 💻 Building real-world apps with **Next.js, React, Express.js, MongoDB, Tailwind CSS**
-- 🔐 Implementing secure authentication with **Better Auth**, **JWT**, and HTTP-only cookies
-- 💳 Integrating **Stripe** for real payment flows (checkout, webhooks)
-- 🗂️ Designing **MongoDB aggregation pipelines** and admin dashboards
-- 🎨 Care about clean, responsive, and accessible UI
-- 📘 Currently leveling up with **TypeScript** to write safer, more scalable code
+### ⚡ Current Activities
+- 📘 **Learning TypeScript:** Currently spending time getting comfortable with types and writing more predictable JavaScript code.
+- 🚀 **Deep Dive into Next.js:** Working on mastering features like Server Actions, caching strategies, and performance optimizations.
+- 🛠️ **Refining My Stack:** Building personal projects to practice proper error handling, secure webhooks, and complex database lookups.
+- 🎨 **UI Polish:** Paying closer attention to responsive design details, loading states, and overall web accessibility.
 
 ---
 
@@ -85,15 +87,14 @@ I'm a full stack web developer who builds **production-style applications end to
 
 # 🌟 Recently Built — WisdomVault
 
-A full stack **Digital Life Lessons Platform** where users create, organize, and share meaningful life lessons with a community.
+A web application built to share, organize, and read meaningful life lessons from a community.
 
-**Highlights**
-- 🔐 Better Auth authentication + Google Sign-In
-- 👤 Role-based dashboards
-- 💳 Stripe premium membership
-- ❤️ Favorites, likes, comments & a lesson report system
-- 🔍 Search, filter & pagination
-- 📊 Admin dashboard, fully responsive
+**Key Features**
+- 🔐 Auth system powered by Better Auth, including Google Sign-In
+- 👤 Separate role-based user and admin interfaces
+- 💳 Real payment checkout flow with Stripe premium plans
+- ❤️ Interactive features: likes, comments, favorites, and a system to flag reports
+- 🔍 Server-side features like fast database search, filtering, and pagination
 
 **Links**
 - 🌍 [Live Demo](https://assignment-10-wisdom-vault-client.vercel.app)
@@ -121,17 +122,15 @@ A full stack **Digital Life Lessons Platform** where users create, organize, and
 
 # 🎯 2026 Goals
 
-- 📘 Get fluent in TypeScript and use it across new projects
-- 🚀 Ship more production-ready projects
-- 🌍 Contribute to open source
-- ☁️ Explore cloud deployment
-- 💼 Grow into a professional software engineer role
+- 📘 Write cleaner code by migrating new projects to TypeScript
+- 🚀 Deploy a couple of heavily optimized full-stack apps
+- 🌍 Figure out open-source workflows and start contributing
+- 💼 Find a remote or on-site team to work with as a software engineer
 
 ---
 
 <h3 align="center">💡 "First, solve the problem. Then, write the code."</h3>
 
 <p align="center">
-⭐ Thanks for visiting my profile! <br><br>
-If you like my work, consider following me and starring my repositories.
+Thanks for stopping by! If you find my projects useful, feel free to drop a star or follow along.
 </p>
