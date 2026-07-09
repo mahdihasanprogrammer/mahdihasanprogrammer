@@ -24,7 +24,7 @@
   <a href="mailto:mahdihasan.code@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="tel:+8801400596304">
+  <a href="https://wa.me/8801400596304">
     <img src="https://img.shields.io/badge/Call%20Me-008000?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Phone" />
   </a>
   <a href="https://www.linkedin.com/in/mahdi-hasan-web">
