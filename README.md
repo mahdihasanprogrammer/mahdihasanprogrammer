@@ -9,7 +9,7 @@
 <h1 align="center">Hi, I am Mahdi Hasan 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=Full+Stack+Web+Developer;Building+secure%2C+scalable+apps;Currently+leveling+up+with+TypeScript" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=Full+Stack+Web+Developer;Building+secure%2C+scalable+web+apps;Currently+learning+TypeScript" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -39,7 +39,7 @@
 
 # 🚀 About Me
 
-I am a full-stack web developer who loves building real-world applications from scratch. I spend most of my time working on complete end-to-end setups—from designing database models to launching smooth user interfaces. My primary goal is always to write clean APIs, implement solid user security, and make sure everything runs fast.
+I am a full-stack web developer who loves building real-world applications from scratch. I enjoy working on complete end-to-end projects—from designing database models to building smooth and responsive user interfaces. My goal is to write clean APIs, implement secure authentication, and build fast, reliable web applications.
 
 ### ⚡ Current Activities
 - 📘 **Learning TypeScript:** Currently spending time getting comfortable with types and writing more predictable JavaScript code.
@@ -87,7 +87,7 @@ I am a full-stack web developer who loves building real-world applications from 
 
 # 🌟 Recently Built — WisdomVault
 
-A web application built to share, organize, and read meaningful life lessons from a community.
+A full-stack web application for creating, organizing, and sharing meaningful life lessons with the community.
 
 **Key Features**
 - 🔐 Auth system powered by Better Auth, including Google Sign-In
@@ -132,5 +132,5 @@ A web application built to share, organize, and read meaningful life lessons fro
 <h3 align="center">💡 "First, solve the problem. Then, write the code."</h3>
 
 <p align="center">
-Thanks for stopping by! If you find my projects useful, feel free to drop a star or follow along.
+⭐ Thanks for visiting my profile!
 </p>
